@@ -16,4 +16,4 @@ vcpkg install stb
 ```
 
 运行效果
-![img.png](resources%2Fimages%2Frun%2Fimg.png)![img.png](img.png)
+![img.png](resources%2Fimages%2Frun%2Fimg.png)
